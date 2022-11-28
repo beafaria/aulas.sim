@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T15:24:17.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.0" etag="uRR6HqEi5nUKz4sCRldh" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T15:31:19.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.0" etag="R5wpB6wXlNKtoxoafUjt" type="github">
   <diagram id="5yz_4pwJRrLRp20c_z2Y" name="Página-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oYTU2xjlPejsE_ZKEN9V-1" value="Guardar dados dos funcionários. Um funcionário tem um nome, um apelido, um salário, data de admissão e um cargo. Um funcionário trabalha num determinado departamento. Um funcionário pode ser promovido de cargo e como consequência mudar de departamento.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-1" value="Guardar dados dos funcionários. Um funcionário tem um nome, um apelido, um salário, data de admissão e um cargo. Um funcionário trabalha num determinado departamento. Um funcionário pode ser promovido de cargo e como consequência mudar de departamento.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;fontFamily=Tahoma;fontStyle=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="159" y="20" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oYTU2xjlPejsE_ZKEN9V-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oYTU2xjlPejsE_ZKEN9V-2" target="oYTU2xjlPejsE_ZKEN9V-37">
@@ -311,16 +311,16 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oYTU2xjlPejsE_ZKEN9V-91" value="1- Tesoureiro&lt;br&gt;2- Chefe de Armazém&lt;br&gt;3- Técnico Têxtil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-91" value="1- Tesoureiro&lt;br&gt;&amp;nbsp; 2- Chefe de Armazém&amp;nbsp;&amp;nbsp;&lt;br&gt;3- Técnico Têxtil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="510" y="300" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oYTU2xjlPejsE_ZKEN9V-92" value="1- Financeiro&amp;nbsp; Lisboa&amp;nbsp; 1&lt;br&gt;2- Logistica&amp;nbsp; Madrid&amp;nbsp; 2&lt;br&gt;3- Produção&amp;nbsp; Braga&amp;nbsp; 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-92" value="&amp;nbsp;1- Financeiro&amp;nbsp; Lisboa&amp;nbsp; 1&amp;nbsp;&amp;nbsp;&lt;br&gt;2- Logistica&amp;nbsp; Madrid&amp;nbsp; 2&lt;br&gt;3- Produção&amp;nbsp; Braga&amp;nbsp; 1&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oYTU2xjlPejsE_ZKEN9V-95" value="1- Portugal&lt;br&gt;2- Espanha" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-95" value="&amp;nbsp;1- Portugal&amp;nbsp;&lt;br&gt;&amp;nbsp;2- Espanha&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="540" y="650" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oYTU2xjlPejsE_ZKEN9V-96" value="1- José Gomes&amp;nbsp; 1500&amp;nbsp; 21/02/2001&amp;nbsp; 1&amp;nbsp; 1&lt;br&gt;2- Maria Lopes&amp;nbsp; 750&amp;nbsp; 01/10/2011&amp;nbsp; 3&amp;nbsp; 3&lt;br&gt;3- Manuel Esteves&amp;nbsp; 1000&amp;nbsp; 01/01/2000&amp;nbsp; 3&amp;nbsp; 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-96" value="1- José Gomes&amp;nbsp; 1500&amp;nbsp; 21/02/2001&amp;nbsp; 1&amp;nbsp; 1&lt;br&gt;2- Maria Lopes&amp;nbsp; 750&amp;nbsp; 01/10/2011&amp;nbsp; 3&amp;nbsp; 3&lt;br&gt;&amp;nbsp; 3- Manuel Esteves&amp;nbsp; 1000&amp;nbsp; 01/01/2000&amp;nbsp; 3&amp;nbsp; 3&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="110" y="380" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
