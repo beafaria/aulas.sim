@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T14:21:58.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.0" etag="3EFbEEPUcsIxRjlppeW0" type="github"><diagram id="k6XTA-hMrNQZ4QXBVghW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T14:53:59.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.6.0" etag="ospZMz1yVm--4xN9jDCj" type="github">
+  <diagram id="5yz_4pwJRrLRp20c_z2Y" name="Página-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oYTU2xjlPejsE_ZKEN9V-1" value="Guardar dados dos funcionários. Um funcionário tem um nome, um apelido, um salário, data de admissão e um cargo. Um funcionário trabalha num determinado departamento. Um funcionário pode ser promovido de cargo e como consequência mudar de departamento.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="20" width="510" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
